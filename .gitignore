@@ -4,6 +4,8 @@
 *.kpf
 .*.sw?
 .*.cfg
+*.pyc
+.su?
 .hg/
 .bzr/
 .svn/
@@ -12,11 +14,9 @@
 analytics.js
 .idea
 eggs
+parts
 .Python
-
-dev-jc.html
-inverse-dev.html
-inverse-dev-jc.html
+converse.js.egg-info/
 
 converse-logs/*.html
 
