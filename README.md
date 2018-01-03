@@ -1,4 +1,6 @@
-# converse.js
+# converse.js for Windows Phone 8 via Cordova
+
+This is a fork of [Converse.js](https://conversejs.org) to be built with Visual Studio 2015.
 
 [![Travis](https://api.travis-ci.org/jcbrand/converse.js.png?branch=master)](https://travis-ci.org/jcbrand/converse.js)
 [![Bountysource bounties](https://img.shields.io/bountysource/team/converse.js/activity.svg?maxAge=2592000)](https://www.bountysource.com/teams/converse.js/issues?tracker_ids=194169)
